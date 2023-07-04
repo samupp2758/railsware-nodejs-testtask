@@ -3,8 +3,8 @@ import { MailTrapClient } from "./src";
 import { resolve } from "path";
 
 const client = new MailTrapClient({
-  user: "efbce9985110a1",
-  pass: "b99c0c9e9210de",
+  user: "efb*********a1", //EDIT WITH YOUR CREDENTIALS
+  pass: "b9*********0de", //EDIT WITH YOUR CREDENTIALS
 });
 
 describe("MailTrapClient", () => {
